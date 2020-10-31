@@ -1,0 +1,29 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.rileytestut.Delta.Beta",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/delta-beta.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\nNDS support currently includes:\n• Playing DS games\\n• Save States\n• Hold Button\nFeatures I'm still working on:\n• Fast Forward Cheats\n• Controller skin (using placeholder controller skin for now)\nPlease report any issues you find to support@altstore.io. Thanks!",
+      "name": "Delta",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG",
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+      ],
+      "size": 18607156,
+      "subtitle": "Classic games in your pocket.",
+      "tintColor": "8A28F7",
+      "version": "1.2b2",
+      "versionDate": "2020-04-27T14:30:00-07:00",
+      "versionDescription": "Delta, meet melonDS! melonDS is a modern Nintendo DS emulator that is more accurate and reliable than DeSmuME. melonDS is actively being worked on and supports many features DeSmuME does not, which is why Delta now includes a melonDS emulator core 🎉 melonDS will soon become the default, so please report any issues you find! \nNEW FEATURES:\n• New core based on melonDS for DS emulation (will soon become the default)\n• DS settings screen to switch cores and import melonDS BIOS files\n• Fast forward DS games\n• Action Replay cheat codes for DS games (melonDS core)\n• Boot directly to Nintendo DS home screen and change system settings (melonDS core)\n• Access Delta files directory in Files > On My iPhone > Delta\n• Support for 8-character NES Game Genie cheat codes\n• Export save files for games from the context menu. \nBUG FIXES:\n• Fixes graphical issues when playing DS games\n• Fixes incorrect formatting when entering cheat codes\n• Fixes incorrect game name text color after deleting a game or switching cores\n• Fixes save files being overwritten when previewing games. Switching to melonDS has been a _big_ transition, so please report any and all bugs you find using the melonDS core. Enjoy!"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Delta",
+  "news": [],
+  "userInfo": {}
+}

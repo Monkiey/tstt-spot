@@ -1,0 +1,50 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify",
+      "downloadURL": "https://starfiles.co/file/9934a0#https://starfiles.co/file/9934a0#",
+      "iconURL": "https://raw.githubusercontent.com/Monkiey/tstt-spot/main/7aeca525afa2209807c15da821b2f2c6.png",
+      "localizedDescription": "You will get Spotify Premium for free\\nwith Sposify tweak",
+      "name": "Spotify",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/Monkiey/tstt-spot/main/IMG_1013.PNG",
+        "https://raw.githubusercontent.com/Monkiey/tstt-spot/main/IMG_1014.jpg",
+        "https://raw.githubusercontent.com/Monkiey/tstt-spot/main/IMG_1016.PNG",
+        "https://raw.githubusercontent.com/Monkiey/tstt-spot/main/IMG_1017.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "Spotify Premium for Free",
+      "tintColor": "018084",
+      "version": "8.5.53",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "\n"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.rileytestut.Delta.Beta",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/delta/1_2_b3.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\nNDS support currently includes:\n• Playing DS games\\n• Save States\n• Hold Button\nFeatures I'm still working on:\n• Fast Forward Cheats\n• Controller skin (using placeholder controller skin for now)\nPlease report any issues you find to support@altstore.io. Thanks!",
+      "name": "Delta",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG",
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+      ],
+      "size": 18607156,
+      "subtitle": "Classic games in your pocket.",
+      "tintColor": "8A28F7",
+      "version": "1.2b3",
+      "versionDate": "2020-04-27T14:30:00-07:00",
+      "versionDescription": "**Delta 1.2 GM**\nIMPROVEMENTS\n• Improves sync error messages when a game is missing or can’t be synced\\n\\nBUG FIXES\n• Fixes misplaced DS screens when using external controller\n• Fixes NES games crashing after playing an N64 game\n• Fixes various issues with controller skin filters\n• Fixes swapped DS screens\n• Fixes importing games from Files\nThanks for your help beta testing Delta these past few months! This should be the last beta before the public release of Delta 1.2, so please report any last-minute issues so we can have a smooth release 🙂"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Spotify and Delta",
+  "news": [],
+  "userInfo": {}
+}
